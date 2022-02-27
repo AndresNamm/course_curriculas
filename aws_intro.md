@@ -5,6 +5,8 @@ Developers and technical experts who want to get to know more about AWS through 
 # Preliminaries 
 
 + General programming and technical skills
++ General knowledge about Networking 
++ General knowledge about Security and Authentication
 
 # Description and Delivery 
 
