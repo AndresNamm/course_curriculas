@@ -1,6 +1,6 @@
 # Target Audience 
 
-Developers and technical experts who want to get to know more about AWS through hands on workshop. 
+Developers and technical experts who want to get to know more about AWS through a hands on workshop. 
 
 # Preliminaries 
 
